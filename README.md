@@ -13,4 +13,4 @@ py -3 -m venv venv
 
 #command
 uvicorn main:app
-uvicorn main:app --reload
+uvicorn app.main:app --reload
