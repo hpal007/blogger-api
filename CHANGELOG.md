@@ -19,3 +19,14 @@
     Created users orm model in models.py
     Added function for create user endpoint
     Added utils.py to store password hashing codes
+
+
+## 08012022
+
+    user and post endpoints added
+    routers code separated
+    requirment file created
+    coloumn owner_id added in posts table
+    oauth2 file added for authentication validation
+    shcemas updated for votes,tokens and users
+    verify function added to utils.py
